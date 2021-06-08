@@ -2,6 +2,9 @@ $enable-shadows: true;
 $primary: rgb(0,168,225);
 $dark: rgb(0,45,91);
 
+$breadcrumb-divider-color: white;
+$breadcrumb-active-color: white;
+
 @import "../bootstrap/scss/bootstrap";
 
 body
